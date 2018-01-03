@@ -1,0 +1,17 @@
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\XamarinFormsMVVM.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\XamarinFormsMVVM.pdb
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Newtonsoft.Json.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Core.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Newtonsoft.Json.xml
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Core.xml
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\obj\Debug\XamarinFormsMVVM.MainPage.xaml.g.cs
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\obj\Debug\XamarinFormsMVVM.App.xaml.g.cs
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\obj\Debug\XamarinFormsMVVM.Page.PageA.xaml.g.cs
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\obj\Debug\XamarinFormsMVVM.dll
+D:\Project\XamarinFormsMVVM\XamarinFormsMVVM\XamarinFormsMVVM\obj\Debug\XamarinFormsMVVM.pdb

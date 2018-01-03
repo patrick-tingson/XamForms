@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinFormsMVVM"
+             x:Class="XamarinFormsMVVM.Page.PageA">
+  <StackLayout Padding ="10" Spacing="10">
+    <Label Text="Id" />
+    <Entry Text="{Binding Id}" Placeholder="Id" />
+    <Label Text="Name" />
+    <Entry Text="{Binding Name}" Placeholder="Full Name" />
+    <StackLayout Padding ="10" Spacing="10" Orientation="Horizontal">
+      <Label Text="{Binding IsHumanLabel}" />
+      <Switch IsToggled="{Binding IsHuman}" HorizontalOptions="EndAndExpand"/>
+    </StackLayout>
+    <ActivityIndicator IsRunning="{Binding IsBusy}"/>
+    <Button Text="Check Profile" Command="{Binding CheckProfileCommand}"/>
+    <Button Text="Add Profile" Command="{Binding AddProfileCommand}"/>
+    <!--<Frame OutlineColor="Accent"             
+           BackgroundColor="Transparent"             
+           Padding="20, 40"             
+           HorizontalOptions="CenterAndExpand">
+      <Frame.GestureRecognizers>
+        <TapGestureRecognizer Command="{Binding ImageCommand}" />
+      </Frame.GestureRecognizers> 
+      <Image Source="@drawable/icon.png" /> 
+    </Frame>-->
+  </StackLayout>
+</ContentPage>
